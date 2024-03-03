@@ -34,5 +34,5 @@ Based on the evaluation results:
 Clone the repository and explore the various model implementations. Adjust hyperparameters and configurations as needed.
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/Mahsarnzh/BrainPOP.git
+cd BrainPOP
