@@ -39,7 +39,7 @@ Clone the repository and explore the various model implementations. Adjust hyper
 ```bash
 git clone https://github.com/Mahsarnzh/BrainPOP.git
 cd BrainPOP
-
+```
 
 ## 6. Discuss in writing what other ideas you can suggest for improving the model:
 
