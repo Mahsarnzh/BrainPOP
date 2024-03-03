@@ -10,9 +10,12 @@ This repository contains several natural language processing (NLP) model archite
 
 ### 2. CNN with GloVe Embedding
 - CNN architecture enhanced with GloVe word embeddings for improved text representation.
+In order to use glove word embeddings go to https://nlp.stanford.edu/projects/glove/ and download glove.6B.zip and find glove.6B.300d.txt in glove.6B.zip and add it to the file path, due to the files being huge I was not able to add it to github
 
 ### 3. RNN with GloVe Embedding
 - Recurrent Neural Network (RNN) architecture with GloVe word embeddings for sequential data processing.
+In order to use glove word embeddings go to https://nlp.stanford.edu/projects/glove/ and download glove.twitter.27B.zip and find glove.twitter.27B.200d.txt in glove.twitter.27B.zip and add it to the file path, due to the files being huge I was not able to add it to github
+
 
 ### 4. LSTM Model
 - Implementation of a Long Short-Term Memory (LSTM) network for capturing long-term dependencies in text data.
