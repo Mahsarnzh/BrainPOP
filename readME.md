@@ -52,13 +52,13 @@ Utilize techniques such as random search or Bayesian optimization for a more sys
 
 #### Model Architecture:
 
-Explore more complex architectures or try different variations of your existing models.
+Explore more complex architectures or try different variations of the existing models.
 Consider deeper networks, additional layers, or alternative architectures like attention mechanisms.
 
 #### Embeddings:
 
 Utilize different pre-trained word embeddings, such as FastText, Word2Vec, or custom embeddings trained on a domain-specific corpus.
-Fine-tune embeddings during training to adapt them to your specific task.
+Fine-tune embeddings during training to adapt them to this specific task.
 
 #### Data Augmentation:
 
