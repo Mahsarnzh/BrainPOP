@@ -38,8 +38,31 @@ Clone the repository and explore the various model implementations. Adjust hyper
 
 ```bash
 git clone https://github.com/Mahsarnzh/BrainPOP.git
+```
+
+### Navigate to directory
+```
 cd BrainPOP
 ```
+
+
+### Create a virtual environment:
+
+  ```
+  python3.11 -m venv venv
+  ```
+
+### Activate the virtual environment:
+
+  ```
+  source venv/bin/activate
+  ```
+
+
+### Install dependencies:
+  ```
+  pip install -r requirements.txt
+  ```
 
 ## 6. Discuss in writing what other ideas you can suggest for improving the model:
 
