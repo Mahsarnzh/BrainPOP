@@ -40,11 +40,10 @@ Clone the repository and explore the various model implementations. Adjust hyper
 git clone https://github.com/Mahsarnzh/BrainPOP.git
 ```
 
-### Navigate to directory
+### Navigate to directory add relative path to /BrainPOP 
 ```
 cd BrainPOP
 ```
-
 
 ### Create a virtual environment:
 
@@ -57,7 +56,6 @@ cd BrainPOP
   ```
   source venv/bin/activate
   ```
-
 
 ### Install dependencies:
   ```
